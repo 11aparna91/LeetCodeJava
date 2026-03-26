@@ -1,3 +1,7 @@
+/*
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+*/
+
 class Solution {
     public int maxProfit(int[] prices) {
         int minVal= Integer.MAX_VALUE;

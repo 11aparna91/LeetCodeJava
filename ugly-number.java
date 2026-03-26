@@ -1,4 +1,7 @@
-// Problem Number 263
+/*
+Problem Number 263
+https://leetcode.com/problems/ugly-number/description/
+*/ 
 class Solution {
     public boolean isUgly(int n) {
         if (n==1){

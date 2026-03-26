@@ -1,4 +1,7 @@
-// problem number 633
+/*
+problem number 633
+https://leetcode.com/problems/sum-of-square-numbers/description/
+*/
 class Solution {
     public boolean judgeSquareSum(int c) {
         if (c<0) return false;
